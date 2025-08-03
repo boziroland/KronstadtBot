@@ -13,7 +13,7 @@ provides various features such as banning users, playing hangman or playing quiz
 - **DiscordToken**: The Discord bot token, from the developer portal *(I have created a token for testing the bot, which I have purposefully left in the file, so this step can be skipped)*
 - **OwnerId**: ID of the owner of the bot (needed for the shutdown command, the bot can be run without it)
 
-###Steps for testing
+### Steps for testing
 
 1. Create a [Discord account](https://discord.com/register)
 2. Create a server with the account
