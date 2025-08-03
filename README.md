@@ -1,5 +1,3 @@
-#KronstadtBot
-
 [KronstadtBot](https://en.wikipedia.org/wiki/Kotlin_Island#History) is a very simple Discord bot written in Kotlin, using [JDA](https://github.com/DV8FromTheWorld/JDA). The bot
 provides various features such as banning users, playing hangman or playing quiz.
 
